@@ -115,8 +115,7 @@ header {
     margin: 0 3.9px;
 }
 .nekrug {
-	    margin: 0 14px;
-
+	    margin: 1px 14px;
 }
 
 .main-bg {
@@ -138,7 +137,7 @@ header {
 	display: flex;
 	justify-content: space-between;
 	margin: 84px 140px 0px 140px;
-	
+
 }
 
 .numbers span {
@@ -307,7 +306,7 @@ header {
 
 
 .pipes {
-	padding-bottom: 80px;
+	padding: 0 0 80px 40px;
 }
 
 .doroshka {
@@ -381,7 +380,7 @@ header {
 }
 
 .next2-item {
-	margin: 0 30px 90px 0;
+	margin: 0 40px 90px 0;
 	width: 400px;
 	height: 400px;
 	position: relative;
@@ -393,7 +392,7 @@ header {
 }
 
 .next2-item > img {
-	width: 380px;
+	width: 400px;
 	height: 400px;
 }
 
@@ -424,7 +423,7 @@ header {
 }
 
 .maps > img {
-	width: 1200px;
+	width: 1280px;
 	height: 550px;
 	margin-bottom: 80px;
 }
